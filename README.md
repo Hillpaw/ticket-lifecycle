@@ -38,7 +38,7 @@ Once tickets are made, you will be able to set its priority, assign to a specifi
 <br />
 
 <p>
-<img src="blob:https://imgur.com/a81a86b5-5556-437c-9068-1d533b39bef6" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/BVXBUCq.png"  alt="Tickets2"/>
 </p>
 <p>
 While you are assigning the tickets, you are also able to put in notes to further clarify the severity of the tickets. 
