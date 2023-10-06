@@ -5,7 +5,7 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+This section outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
 
 
@@ -32,7 +32,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/sBR56fQ.png" alt="TicketIntake"/>
 </p>
 <p>
-Once tickets are made, you will be able to set its priority, assign to a specific agent, or configure its SLA to make sure it makes sense with the describe problem in the ticket. 
+Once tickets are made, at the top of the screen you will be able to set its priority, assign the ticket to a specific agent, or configure its SLA to make sure it makes sense with the described problem in the ticket. 
 
 </p>
 <br />
